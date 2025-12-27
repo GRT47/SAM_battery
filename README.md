@@ -53,8 +53,8 @@ H:\github\android_battery_info\
 │   ├── app/src/main/java.../ShizukuHelper.kt      # ADB 명령어 처리
 │   └── (UI 및 로직은 Non-Root와 동기화됨)
 └── Final_Release/          # [최종 빌드된 APK 파일들]
-    ├── SAM_Battery_NonRoot_Final_v35.apk
-    └── SAM_Battery_Full_Final_v38.apk
+    ├── SAM_Battery_NonRoot.apk
+    └── SAM_Battery_Full.apk
 ```
 
 ## 🚀 설치 및 사용 방법
