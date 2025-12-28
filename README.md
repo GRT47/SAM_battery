@@ -4,6 +4,15 @@
 
 ---
 
+## 📸 스크린샷 (Screenshots)
+
+<p align="center">
+  <img src="assets/main_screen.jpg" alt="Main Screen" width="45%" />
+  <img src="assets/info_screen.jpg" alt="Info Screen" width="45%" />
+</p>
+
+---
+
 ## ⚡ 에디션 비교 (Editions)
 
 | 기능 / 특징 | 🟢 Non-Root Edition | 🔴 Full Edition (Shizuku) |
