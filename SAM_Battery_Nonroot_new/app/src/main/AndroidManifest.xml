@@ -1,0 +1,28 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.BATTERY_STATS" />
+    <uses-permission android:name="android.permission.DUMP" />
+
+    <application
+        android:allowBackup="true"
+        android:label="SAM배터리(Nonroot)"
+        android:icon="@drawable/icon"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        
+        <activity
+            android:name="com.sambat.MainActivity"
+            android:exported="true"
+            android:label="SAM배터리(Nonroot)"
+            android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Shizuku Provider Removed -->
+    </application>
+</manifest>
